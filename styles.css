@@ -1,0 +1,17 @@
+body{
+    background-color: gainsboro;
+}
+
+.title{
+    font-size: 20px;
+    color: crimson;
+
+}
+
+.logo{
+    width: 300px;
+}
+
+#principal{
+    font-size: 40px;
+}
